@@ -349,7 +349,7 @@ a {
 
 /* Plans */
 .plan {
-    transition: tranform .2s ease-out;
+    transition: transform .2s ease-out;
 }
 
 .plan__name {
